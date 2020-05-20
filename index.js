@@ -4,6 +4,7 @@ const interval = setInterval(() => {
     clearInterval(interval);
 
     const selectBtn = document.createElement('select');
+    selectBtn.classList.add('select-btn');
 
     function addOption(labelOpt, valueOpt){
       const opt = document.createElement('option');

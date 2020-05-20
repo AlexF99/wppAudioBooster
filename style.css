@@ -1,0 +1,9 @@
+.select-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px gray solid;
+  border-radius: 50px;
+  color: gray;
+  padding-left: 10px;
+}
