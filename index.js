@@ -13,7 +13,7 @@ const interval = setInterval(() => {
       selectBtn.appendChild(opt);
     }
 
-    addOption('normal', 1);
+    addOption('1x', 1);
     addOption('0.5x', 0.5);
     addOption('1.25x', 1.25);
     addOption('1.5x', 1.5);
