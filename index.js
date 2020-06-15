@@ -1,5 +1,5 @@
 const interval = setInterval(() => {
-  const appBar = document.querySelector('._3Kxus>span');
+  const appBar = document.querySelector('._3NrAe>span');
   if(appBar) {
     clearInterval(interval);
 
